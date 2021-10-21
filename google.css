@@ -1,0 +1,88 @@
+.allBody {
+    text-align: center;
+}
+
+.container {
+    display: block;
+    width: 1131px;
+    background-color: #EEEEEE;
+    margin: auto;
+    height: 62px;
+}
+
+.lego img {
+    display: block;
+    width: 351px;
+    height: 113px;
+    margin: 0 auto;
+}
+
+input[type=text] {
+    width: 293px;
+    margin: 0 auto 0;
+}
+
+.columns {
+    width: 1133px;
+    height: 74px;
+    margin: 2px auto;
+}
+
+.column1 {
+    float: left;
+    background-color: #7EE6DA;
+    width: 417px;
+    height: 75px;
+}
+
+#p1 {
+    margin-bottom: 0px;
+    margin-top: 7px;
+}
+
+.column2 {
+    float: left;
+    background-color: #70CCC3;
+    width: 243px;
+    height: 75px;
+    margin: 0px 2px 0 2px;
+    font-size: 16px;
+}
+
+.column3 {
+    float: left;
+    background-color: #62B3AB;
+    width: 467px;
+    height: 75px;
+    font-size: 12px;
+}
+
+#p2 {
+    margin-top: 3px;
+    margin-bottom: auto;
+}
+
+#p3 {
+    margin-top: 0px;
+    margin-bottom: auto;
+}
+
+input[id=mail]{
+    width: 150px;
+}
+
+input[type=submit] {
+    width: 73px;
+}
+
+.footer {
+    font-size: 14px;
+}
+
+#button1 {
+    width: auto;
+}
+
+#button2 {
+    width: auto;
+}
